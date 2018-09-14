@@ -1339,5 +1339,9 @@
     {
         "name": "Grade Grey",
         "colors": ["#bdc3c7","#2c3e50"]
+    },
+    { 
+        "name": "Somnus",
+        "colors": ["#253e7f","#1e9dd1"]
     }
 ]
